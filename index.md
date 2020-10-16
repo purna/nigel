@@ -1,6 +1,6 @@
 ### Welcome 
 
-{% include nav.html %}
+{% include _includes/nav.html %}
 
 
 
